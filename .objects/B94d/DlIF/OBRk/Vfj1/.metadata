@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Supported DietsPricingF…",
+  "Type": "Element",
+  "Id": "Vfj1mtql70GPr_qgdznMfA",
+  "Reference": "ET6SdP2YsU-WIgJGugCKqA/Vfj1mtql70GPr_qgdznMfA",
+  "ParentRef": "ET6SdP2YsU-WIgJGugCKqA/OBRkL6G4m0CJW4mZIOc45w",
+  "Created": "2025-07-29T18:14:00.1100011Z",
+  "Updated": "2025-07-29T18:14:00.1100011Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

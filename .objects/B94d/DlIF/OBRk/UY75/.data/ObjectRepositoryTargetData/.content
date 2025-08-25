@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6sf2gIpN1Uaa3pks_ulDdA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="eatthismuch.com" CVScreenId="6793fbfc-1cc4-4d14-bf12-d659defe8b99" CvElementArea="189, 77, 1527, 53" CvType="InputBox" DesignTimeRectangle="246, 87, 1412, 37" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='The Automatic Meal Planner - Eat This Much - Google Chrome – Anu*' role='pane' /&gt;&lt;ctrl name='Address and search bar' role='editable text' /&gt;" Guid="661c138c-33be-4a4a-8acd-bd40a0c3121b" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='The Automatic Meal Planner - Eat This Much - Google Chrome' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6793fbfc-1cc4-4d14-bf12-d659defe8b99" CvElementArea="189, 77, 1527, 53" CvType="InputBox" DesignTimeRectangle="198, 87, 37, 37" ElementType="Button" FuzzySelectorArgument="&lt;ctrl name='The Automatic Meal Planner - Eat This Much - Google Chrome – Anu*' role='pane' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='View site information' role='menu button' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='View site information' /&gt;" Guid="5e202fd4-32c2-4b44-b541-0b905f4ebcb7" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0bdd865d106be30d22aff0a444505cd1.png" xmlns="">0Z2WO4icCjkSfKRrA81V7nA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScroll</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

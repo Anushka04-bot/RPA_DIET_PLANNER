@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7pon6yn3SE2NghJzaFSRIg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="newtab" CVScreenId="d211532e-da28-4e99-9441-08d8087ba791" CvTextArea="476, 689, 307, 22" CvTextArgument="Search Google or type a URL" CvType="Text" DesignTimeRectangle="400, 663, 1119, 72" ElementType="DropDown" FullSelectorArgument="&lt;ctrl name='New Tab' role='document' /&gt;&lt;ctrl name='Search Google or type a URL' role='combo box' /&gt;" Guid="f3409028-30f3-4c98-8fb8-a66f748d461f" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='New Tab - Google Chrome' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d211532e-da28-4e99-9441-08d8087ba791" CvElementArea="400, 664, 1112, 72" CvType="InputBox" DesignTimeRectangle="418, 675, 48, 48" FullSelectorArgument="&lt;ctrl name='New Tab' role='document' /&gt;&lt;ctrl idx='29' role='grouping' /&gt;" Guid="4242a4b8-a84a-4e9a-a6b5-b350ad37c987" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="de5e503d7a4d0808d602949c044b5d62.png" xmlns="">0uNDFtFnYqEGEOyJqoLB6pQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

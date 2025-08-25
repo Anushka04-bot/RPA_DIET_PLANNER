@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JfJtGKlvp0yqplll0Q39Vg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="eatthismuch.com" CVScreenId="f061d25d-d54c-4a4a-858d-8326195a13d5" CvElementArea="859, 864, 200, 64" CvTextArea="909, 887, 99, 21" CvTextArgument="Generate" CvType="Button" DesignTimeRectangle="862, 865, 195, 60" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="aeafea80-6dcd-4418-9fbf-e7afba26003c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automatic Meal Planner - Eat This Much' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="240, 485, 1440, 174" ElementType="List" FullSelectorArgument="&lt;webctrl class='svelte-kvuic8' parentid='create' tag='UL' /&gt;" FuzzySelectorArgument="&lt;webctrl class='svelte-kvuic8' parentid='create' tag='UL' type='' aaname=' ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="6e6e9369-217d-4941-97aa-2cf800a3acf4" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1e541bf80c3a24067d031f8994203761.png" xmlns="">0cbFeDG8OtUeKgchwc9MWCg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

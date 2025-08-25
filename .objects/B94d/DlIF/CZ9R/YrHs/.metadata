@@ -1,0 +1,14 @@
+﻿{
+  "Name": "I want to eat",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "YrHsrCNBuUaIe7wwUPbpGQ",
+  "Reference": "ET6SdP2YsU-WIgJGugCKqA/YrHsrCNBuUaIe7wwUPbpGQ",
+  "ParentRef": "ET6SdP2YsU-WIgJGugCKqA/CZ9RoA4kn0ycCvgbrtMJ0Q",
+  "Created": "2025-07-30T15:23:29.5729057Z",
+  "Updated": "2025-07-30T15:23:29.5729057Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

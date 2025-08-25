@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zYZutXrzKES96pYd-AEoRg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="newtab" CVScreenId="d211532e-da28-4e99-9441-08d8087ba791" CvElementArea="182, 77, 1533, 53" CvType="InputBox" DesignTimeRectangle="246, 87, 1412, 37" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='New Tab - Google Chrome – Anushka' role='pane' /&gt;&lt;ctrl name='Address and search bar' role='editable text' /&gt;" Guid="d9b4c159-0c66-4506-b8a5-443f23bbc07c" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='New Tab - Google Chrome' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d211532e-da28-4e99-9441-08d8087ba791" CvElementArea="182, 77, 1533, 53" CvType="InputBox" DesignTimeRectangle="198, 87, 37, 37" ElementType="Icon" FuzzySelectorArgument="&lt;ctrl name='New Tab - Google Chrome – Anushka' role='pane' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Search icon' role='graphic' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Search icon' /&gt;" Guid="feb9bbd3-5185-48fe-bf51-adae3f86905b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a59d5ce5a85798a3e4c4d2170202ce93.png" xmlns="">07QvI9r4uXUiir-JdyamJlg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

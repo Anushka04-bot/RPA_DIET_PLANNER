@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="78icr9SSwkefuV7bNGxSJw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="eatthismuch.com" CVScreenId="dac94101-e47d-4471-bc77-6b568204285e" CvElementArea="723, 525, 233, 170" CvTextArea="758, 651, 159, 22" CvTextArgument="Mediterranean" CvType="Button" DesignTimeRectangle="724, 527, 230, 165" FullSelectorArgument="&lt;webctrl aaname=' ' idx='3' tag='SPAN' /&gt;" Guid="e52e026a-e249-45b6-b5ac-a56884cc3e15" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automatic Meal Planner - Eat This Much' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b3afffb5969fe07a55f750031af9cf31.png" xmlns="">0Ba5rwM0Ul0OqAyDuDczKhA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

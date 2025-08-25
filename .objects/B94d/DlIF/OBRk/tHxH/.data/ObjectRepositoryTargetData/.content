@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1m_P8SLWV0SgoUJUjP7Z5Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="eatthismuch.com" CVScreenId="2e28bb25-e6ee-4744-8e12-2a1dab4ec598" CvElementArea="189, 77, 1527, 53" CvType="InputBox" DesignTimeRectangle="246, 87, 1412, 37" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='The Automatic Meal Planner - Eat This Much - Google Chrome – Anu*' role='pane' /&gt;&lt;ctrl name='Address and search bar' role='editable text' /&gt;" Guid="d03330e6-437e-4fee-b931-be7977a773fe" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='The Automatic Meal Planner - Eat This Much - Google Chrome' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="31fe8a69fe6dabfa0747bc3b55fd9df1.png" xmlns="">05I0adYJrgkGVdp51-JE_vQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

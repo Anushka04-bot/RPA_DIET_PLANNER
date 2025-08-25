@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jSw8nfjIn0-2RVAVDkdl0A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="newtab" CVScreenId="6e27b8dd-3e61-40e1-b834-723efc77970f" CvTextArea="476, 689, 307, 22" CvTextArgument="Search Google or type a URL" CvType="Text" DesignTimeRectangle="400, 663, 1119, 72" ElementType="DropDown" FullSelectorArgument="&lt;ctrl name='New Tab' role='document' /&gt;&lt;ctrl name='Search Google or type a URL' role='combo box' /&gt;" Guid="0fedb39d-689e-4578-a17f-10a06f82167e" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='New Tab - Google Chrome' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6e27b8dd-3e61-40e1-b834-723efc77970f" CvElementArea="400, 664, 1113, 71" CvType="InputBox" DesignTimeRectangle="418, 675, 48, 48" FuzzySelectorArgument="&lt;ctrl name='New Tab' role='document' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl automationid='' role='grouping' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="a66f1717-9a9b-4f6d-80c6-a0a5c9dd2db7" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="39636e67abd8e6816af7fce0b578dc4b.png" xmlns="">01vEK55sNpE27BZl3iPxzyQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

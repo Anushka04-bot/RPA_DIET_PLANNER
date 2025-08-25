@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KpC2vUJFck23-wczjWERhQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="eatthismuch.com" DesignTimeRectangle="11, 422, 1897, 5786" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div' tag='DIV' /&gt;" Guid="1dfa6edd-6e9a-4c9d-974d-cdefbf88a4c0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automatic Meal Planner - Eat This Much' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="dbf24caf7542c3f71c423d2fca48e2d8.png" xmlns="">0ZaIFK3HzaUOoYRVXcYtdXg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
